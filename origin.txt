@@ -1,0 +1,248 @@
+Uri: https://guukgang.com/
+File Name: c:\Downloaded Web Sites\guukgang.com\index.htm
+Content Type: text/html
+
+Uri: https://guukgang.com/favicon1.ico
+File Name: c:\Downloaded Web Sites\guukgang.com\favicon1.ico
+Content Type: image/x-icon
+
+Uri: https://guukgang.com/site_files/f(2).txt
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\f(2).txt
+Content Type: text/plain
+
+Uri: https://guukgang.com/site_files/f(3).txt
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\f(3).txt
+Content Type: text/plain
+
+Uri: https://guukgang.com/giris.php
+File Name: c:\Downloaded Web Sites\guukgang.com\giris.html
+Content Type: text/html
+
+Uri: https://guukgang.com/kayit.php
+File Name: c:\Downloaded Web Sites\guukgang.com\kayit.html
+Content Type: text/html
+
+Uri: https://guukgang.com/site_files/osd.js
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\osd.js
+Content Type: application/javascript
+
+Uri: https://guukgang.com/site_files/f.txt
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\f.txt
+Content Type: text/plain
+
+Uri: https://guukgang.com/site_files/f(1).txt
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\f(1).txt
+Content Type: text/plain
+
+Uri: https://guukgang.com/site_files/logo1.png
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\logo1.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/yeni2/PC.png?v=20
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\yeni2\PC.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/bg.svg
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://guukgang.com/site_files/f1.png
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\f1.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/f2.png
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\f2.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/f3.png
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\f3.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/f4.png
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\f4.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/f5.png
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\f5.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/f6.png
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\f6.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/yeni2/PC.png?v=56
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\yeni2\PC-1.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/c2KRUlndo7Q.html
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\c2KRUlndo7Q.html
+Content Type: text/html
+
+Uri: https://guukgang.com/site_files/GuukGangLogo.png
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\GuukGangLogo.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/yeni2/menu1.png?v=19
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\yeni2\menu1.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/yeni2/menu2.png?v=19
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\yeni2\menu2.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/yeni2/menu3.png?v=19
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\yeni2\menu3.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/yeni2/menu4.png?v=19
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\yeni2\menu4.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/yeni2/menu5.png?v=19
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\yeni2\menu5.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/soru.png
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\soru.png
+Content Type: image/png
+
+Uri: https://guukgang.com/site_files/jquery.min.js
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://guukgang.com/site_files/ads.html
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\ads.html
+Content Type: text/html
+
+Uri: https://guukgang.com/girispaneli/vendor/bootstrap/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://guukgang.com/girispaneli/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\font-awesome-4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://guukgang.com/girispaneli/fonts/Linearicons-Free-v1.0.0/icon-font.min.css
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\Linearicons-Free-v1.0.0\icon-font.min.css
+Content Type: text/css
+
+Uri: https://guukgang.com/girispaneli/vendor/animate/animate.css
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\vendor\animate\animate.css
+Content Type: text/css
+
+Uri: https://guukgang.com/girispaneli/vendor/css-hamburgers/hamburgers.min.css
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\vendor\css-hamburgers\hamburgers.min.css
+Content Type: text/css
+
+Uri: https://guukgang.com/girispaneli/vendor/select2/select2.min.css
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\vendor\select2\select2.min.css
+Content Type: text/css
+
+Uri: https://guukgang.com/girispaneli/css/util.css
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\css\util.css
+Content Type: text/css
+
+Uri: https://guukgang.com/girispaneli/css/main.css
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\css\main.css
+Content Type: text/css
+
+Uri: https://guukgang.com/girispaneli/vendor/jquery/jquery-3.2.1.min.js
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\vendor\jquery\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://guukgang.com/girispaneli/vendor/bootstrap/js/popper.js
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\vendor\bootstrap\js\popper.js
+Content Type: application/javascript
+
+Uri: https://guukgang.com/girispaneli/vendor/bootstrap/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\vendor\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://guukgang.com/girispaneli/vendor/select2/select2.min.js
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\vendor\select2\select2.min.js
+Content Type: application/javascript
+
+Uri: https://guukgang.com/girispaneli/js/main.js
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\js\main.js
+Content Type: application/javascript
+
+Uri: https://guukgang.com/site_files/www-player-2x-webp.css
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\www-player-2x-webp.css
+Content Type: text/css
+
+Uri: https://guukgang.com/site_files/embed.js
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\embed.js
+Content Type: application/javascript
+
+Uri: https://guukgang.com/site_files/remote.js
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\remote.js
+Content Type: application/javascript
+
+Uri: https://guukgang.com/site_files/ad_status.js
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\ad_status.js
+Content Type: application/javascript
+
+Uri: https://guukgang.com/site_files/www-embed-player.js
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\www-embed-player.js
+Content Type: application/javascript
+
+Uri: https://guukgang.com/site_files/base.js
+File Name: c:\Downloaded Web Sites\guukgang.com\site_files\base.js
+Content Type: application/javascript
+
+Uri: https://guukgang.com/girispaneli/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://guukgang.com/girispaneli/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://guukgang.com/girispaneli/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://guukgang.com/girispaneli/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://guukgang.com/girispaneli/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://guukgang.com/girispaneli/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://guukgang.com/girispaneli/fonts/poppins/Poppins-Regular.ttf
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\poppins\Poppins-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://guukgang.com/girispaneli/fonts/poppins/Poppins-Bold.ttf
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\poppins\Poppins-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://guukgang.com/girispaneli/fonts/poppins/Poppins-Medium.ttf
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\poppins\Poppins-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://guukgang.com/girispaneli/fonts/raleway/Raleway-Regular.ttf
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\raleway\Raleway-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://guukgang.com/girispaneli/fonts/raleway/Raleway-Black.ttf
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\raleway\Raleway-Black.ttf
+Content Type: font/ttf
+
+Uri: https://guukgang.com/girispaneli/fonts/raleway/Raleway-SemiBold.ttf
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\raleway\Raleway-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://guukgang.com/girispaneli/fonts/raleway/Raleway-Bold.ttf
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\fonts\raleway\Raleway-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://guukgang.com/girispaneli/images/img-01.png
+File Name: c:\Downloaded Web Sites\guukgang.com\girispaneli\images\img-01.png
+Content Type: image/png
+
